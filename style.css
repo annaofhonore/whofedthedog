@@ -1,0 +1,111 @@
+#menu_background {
+    background-image: url background-size: 100%;
+    width: 20vw;
+    height: 20vw;
+    position: relative;
+    top: 22vw;
+    left: 40vw;
+
+}
+
+#game {
+    background-image: url(spilleboard.svg);
+    flex: wrap;
+    background-size: 100%;
+    width: 150vw;
+    height: 50vw;
+    position: relative;
+
+
+}
+
+
+
+#svamp {
+    background-image: url(svamp.svg);
+    background-size: 100%;
+    width: 20vw;
+    height: 20vw;
+    position: absolute;
+    bottom: 30vw;
+    left: 60vw;
+
+}
+
+#beef {
+    background-image: url(beef.svg);
+    background-size: 100%;
+    width: 30vw;
+    height: 30vw;
+    position: absolute;
+    bottom: 20vw;
+    left: 70vw
+}
+
+#hund {
+    background-image: url(gladhund.svg);
+    background-size: 100%;
+    width: 50vw;
+    height: 40vw;
+    position: absolute;
+    bottom: 35vw;
+    right: vw;
+
+
+}
+
+#hundeskal {
+    background-image: url(hundeskol.svg);
+    background-size: 100%;
+    width: 40vw;
+    height: 40vw;
+    position: absolute;
+    bottom: 18vw;
+    left: 5vw;
+}
+
+#pote {
+    background-image: url(pote.svg);
+    background-size: 100%;
+    width: 20vw;
+    height: 20vw;
+    position: absolute;
+    bottom: 26vw;
+    left: 15vw;
+}
+
+#chokolade {
+
+    background-image: url(chokolade.svg);
+    background-size: 100%;
+    width: 20vw;
+    height: 20vw;
+    position: absolute;
+    bottom: 25vw;
+    left: 50vw;
+
+
+}
+
+#time {
+    background-image: url(uihalvtid.svg);
+    background-size: 100%;
+    width: 40vw;
+    height: 40vw;
+    position: absolute;
+    bottom: 50vw;
+    left: 65vw
+}
+
+
+* ////
+
+#menu_background {
+    background-image: url(starsk%C3%A6rm.svg);
+    flex: wrap;
+    background-size: 100%;
+    width: 150vw;
+    height: 50vw;
+    position: relative;
+
+}
